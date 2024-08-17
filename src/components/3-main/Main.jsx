@@ -53,6 +53,18 @@ const Main = () => {
         >
           MERN
         </button>
+        <button
+          className={currentactive === "Nextjs" ? "active" : null}
+          onClick={() => {
+            setcurrentactive("Nextjs");
+            const newarr = myProjects.filter((item) => {
+              return item.category === "Nextjs";
+            });
+            setarr(newarr);
+          }}
+        >
+          Next Js
+        </button>
       </section>
 
       <section className=" flex right-section">

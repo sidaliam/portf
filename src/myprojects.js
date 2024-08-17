@@ -54,7 +54,7 @@ export const myProjects = [
     },
     {
       projecttitle: "Mozzy Telecom",
-      linkgit:"https://github.com/sidaliam/mozzy-website",
+      linkgit:"https://www.mozytecdz.com/",
       category: "html/css",
       imgpath: "a",
       description:
@@ -70,7 +70,7 @@ export const myProjects = [
     },
     {
       projecttitle: "Car rent application",
-      linkgit:"https://github.com/sidaliam/car-rent-app",
+      linkgit:"https://kiraadz.com/",
       category: "mern",
       imgpath: "a",
       description:
@@ -79,12 +79,28 @@ export const myProjects = [
         "Embark on your journey with CarRentalX – the premier MERN stack application designed to simplify the car rental process. Whether you're planning a road trip or simply need a reliable mode of transportation, CarRentalX offers a seamless booking experience tailored to your needs.Effortless Car Rental: With CarRentalX, renting a car has never been easier. Our intuitive interface allows you to select your desired car, choose your preferred rental dates, and specify the location where you'll pick up the vehicle. Whether you're traveling for business or pleasure, our extensive fleet of vehicles ensures that you'll find the perfect ride for your needs.Two-Sided Platform: CarRentalX features a dual-sided platform, catering to both customers and administrators. On the customer side, users can easily browse available vehicles, compare prices, and make reservations with just a few clicks. On the administrative side, car rental companies can manage their fleet, update pricing and availability, and track bookings with ease.Seamless Booking Process: Our streamlined booking process ensures a hassle-free experience from start to finish. Simply enter your desired rental dates and location, browse available vehicles, and complete your reservation in minutes. With secure payment processing and instant confirmation, you can book with confidence, knowing that your rental is secured and ready for pickup.Empowering Administrators: For car rental companies, CarRentalX offers a powerful suite of tools to streamline operations and enhance efficiency. From managing inventory and tracking bookings to analyzing performance metrics and generating reports, our admin dashboard provides everything you need to run your business smoothly and effectively.Experience Convenience and Reliability: At CarRentalX, we're committed to providing unparalleled convenience and reliability to our users. Whether you're a customer looking for the perfect rental car or an administrator seeking to optimize your rental fleet, CarRentalX has you covered. Join us and experience the future of car rental today. Start Your Journey with CarRentalX: Ready to hit the road? Start your journey with CarRentalX today. Explore our extensive selection of vehicles, book your rental with ease, and enjoy the freedom of the open road. With CarRentalX, the adventure begins here.",
   
       images: [
-        ".../public/img/Kiraa/Capture.PNG",
+        "../public/img/Kiraa/Capture.PNG",
         "../public/img/Kiraa/Capture2.PNG",
         "../public/img/Kiraa/Capture3.PNG",
         "../public/img/Kiraa/Capture4.PNG",
-        "../public/img/Kiraa/Capture5.PNG",
-        "../public/img/Kiraa/Capture6.PNG",
       ],
     },
+    {
+      projecttitle: "Ecosnet landing Page",
+      linkgit:"https://icosnet-nextjs-model.onrender.com/",
+      category: "Nextjs",
+      imgpath: "a",
+      description:
+        "a landing page model for an telecomunication factory built with nextjs and other libary   ",
+      description2:
+        "",
+  
+      images: [
+        "../public/img/icosnet/Capture1.PNG",
+        "../public/img/icosnet/Capture2.PNG",
+        "../public/img/icosnet/Capture3.PNG",
+        "../public/img/icosnet/Capture4.PNG",
+      ],
+    },
+    
   ];

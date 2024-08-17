@@ -18,7 +18,7 @@ const Footer = () => {
         </li>
       </ul>
 
-      <p>© 2023 Spencer Sharp. All rights reserved.</p>
+      <p>© 2024 Amoura Sidali. All rights reserved.</p>
     </footer>
   );
 };

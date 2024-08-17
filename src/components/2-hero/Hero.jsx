@@ -1,6 +1,6 @@
 import "./hero.css";
 import Lottie from "lottie-react";
-import webdev from "../../../public/animation/Animation - 1712669223779.json"
+import webdev from "../../../public/animation/Animation - 1712669223779.json";
 const Hero = () => {
   return (
     <section className="hero flex">
@@ -11,21 +11,33 @@ const Hero = () => {
         </div>
 
         <h1 className="title">
-          Amoura Sidali <br />Full stack developer
+          Amoura Sidali <br />
+          Full stack developer
         </h1>
         <p className="sub-title">
-          Hello,I’m Amoura Sidali, a Full Stack developer based in Algiers.
+          Hello,I’m Amoura Sidali, a Full Stack developer.
         </p>
 
         <div className="all-icons flex">
           <div className="icon icon-twitter"></div>
           <div className="icon icon-instagram"></div>
-          <div className="icon icon-github"></div>
+          <div className="icon icon-github">
+            <a
+              href="https://github.com/sidaliam"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fab fa-github"></i> 
+            </a>
+          </div>
+
           <div className="icon icon-linkedin"></div>
         </div>
       </div>
 
-      <div ><Lottie style={{height:220}} animationData={webdev} /></div>
+      <div>
+        <Lottie style={{ height: 220 }} animationData={webdev} />
+      </div>
     </section>
   );
 };
