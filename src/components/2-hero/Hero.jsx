@@ -56,11 +56,6 @@ const Hero = () => {
             alt="Python Logo"
             className="tech-logo"
           />
-          <img
-            src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-            alt="GitHub Logo"
-            className="tech-logo"
-          />
         </div>
         <br />
         <br />
