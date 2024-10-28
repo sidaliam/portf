@@ -91,9 +91,9 @@ export const myProjects = [
       category: "Nextjs",
       imgpath: "a",
       description:
-        "a landing page model for an telecomunication factory built with nextjs and other libary   ",
+        "a website model for an telecomunication factory built with nextjs and other libary   ",
       description2:
-        "",
+        "The Icosnet website, crafted with Next.js, serves as a streamlined and professional landing page for this telecommunications company. Designed for optimal performance and responsiveness, the site presents Icosnet's diverse services with a modern layout, allowing users to easily access information about the company's innovative solutions in connectivity and communication. The clean, intuitive design ensures seamless navigation, showcasing Icosnet's commitment to quality and user experience while providing visitors with quick, engaging access to the company's offerings and contact information.",
   
       images: [
         "/img/icosnet/Capture1.PNG",

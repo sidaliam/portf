@@ -139,7 +139,7 @@ button:active {
 
 /* for Firefox */
 html {
-  scrollbar-color: #9e4673 #3d4a59;
+  scrollbar-color: rgba(25, 118, 210, 0.85) #3d4a59;
 }
 
 .scroll2Top {
