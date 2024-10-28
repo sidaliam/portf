@@ -21,7 +21,7 @@ html {
 :root {
   --primary: #000;
   --secondary: rgb(24 24 27);
-  --border: rgba(202,202, 202, 0.518);
+  --border: rgb(24 24 27);
 
   --title: rgb(244 244 245);
   --subtitle: rgb(161 161 170);
