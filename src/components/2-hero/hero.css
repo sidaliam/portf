@@ -29,6 +29,8 @@ section.hero .left-section {
   object-fit: contain;
   padding: 5px;
   margin: auto;
+  align-items: center;
+  justify-content: center;
 }
 
 
